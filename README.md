@@ -119,4 +119,3 @@ Contains the rendered project report with code, figures, results, and interpreta
 
 MSc Bioinformatics
 
-Email: korneli.prokopimaite@studio.unibo.it
